@@ -244,14 +244,7 @@ SOC story before moving on to cloud security (AWS/Terraform).
 
 ## Screenshots
 
-*(Add images to `docs/images/` and they'll render here.)*
 
-| | |
-|---|---|
-| ![Wazuh dashboard overview](docs/images/wazuh-overview.png) | ![Splunk SOC dashboard](docs/images/soc-dashboard.png) |
-| Wazuh detection dashboard | Splunk SOC overview dashboard |
-| ![Alert in Splunk](docs/images/splunk-detection.png) | ![Correlated alert](docs/images/wazuh-alert.png) |
-| Live detection flowing into Splunk | Correlated alert in Wazuh |
 
 ---
 
